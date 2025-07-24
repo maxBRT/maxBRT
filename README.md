@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maxBRT  
 - 👀 I’m interested in programming, open-source projects, web development and tools that help create a compeling workflow for devolopers.
 - 🌱 I’m currently learning advanced concepts in Go.
-- 💞️ I’m looking to collaborate on Go-based projects and tools that simplify everyday tasks.
-
+- 📖 [My personal webpage](maxbrt.dev)
 --- 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maxBRT&theme=dark)](https://git.io/streak-stats)
 --- 
