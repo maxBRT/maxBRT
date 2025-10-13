@@ -3,6 +3,10 @@
 
 ## Software Craftsman
 
+![Profile views](https://komarev.com/ghpvc/?username=jacobcolvin)
+![Resume](https://img.shields.io/badge/website-up-green)
+![Contact me](https://link)
+
 ### I do Software / Backend things
 
 I am a passionate programmer who loves to deeply understand things.
