@@ -1,11 +1,7 @@
-# Maxime Bourret
-Montreal, Canada
+# 👋 Maxime Bourret
+📍 Montreal, Canada
 
 ## Software Craftsman
-
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-<tr style="border: none;">
-<td width="60%" valign="top" style="border: none;">
 
 ### I do Software / Backend things
 
@@ -13,14 +9,10 @@ I am a passionate programmer who loves to deeply understand things.
 
 This mentality helps me fully dissect and comprehend every problem.
 
-</td>
-<td width="40%" valign="top" align="center" style="border: none;">
+This mix of passion and curiosity makes it easy for me to learn and adapt to the ever-moving world of modern computing.
 
 <img src="https://github-readme-stats.vercel.app/api?username=maxbrt&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>
 
-</td>
-</tr>
-</table>
 
 ## 🧰 Favorite Tech
 <sup style="color:#80808050;">Tech I love, tech I know, and tech I am interested in.</sup>
