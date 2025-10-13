@@ -3,22 +3,18 @@
 
 ## Software Craftsman
 
-![Profile views](https://komarev.com/ghpvc/?username=jacobcolvin)
-![Resume](https://img.shields.io/badge/website-up-green)
-![Contact me](https://link)
+![Profile views](https://komarev.com/ghpvc/?username=maxBRT)
+[![Contact me](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/maxime-bourret-48a48b38a/)
 
 ### I do Software / Backend things
 
 I am a passionate programmer who loves to deeply understand things.
-
-This mentality helps me fully dissect and comprehend every problem.
-
-This mix of passion and curiosity makes it easy for me to learn and adapt to the ever-moving world of modern computing.
+> I believe a good developer doesn’t just write code — they seek to understand problems at their core.
 
 <img src="https://github-readme-stats.vercel.app/api?username=maxbrt&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>
 
 
-## 🧰 Favorite Tech
+##  Favorite Tech
 <sup style="color:#80808050;">Tech I love, tech I know, and tech I am interested in.</sup>
 
 <table align="center">
