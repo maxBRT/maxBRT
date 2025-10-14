@@ -46,15 +46,6 @@ I am a passionate programmer who loves to deeply understand things.
   </tr>
 </table>
 
----
-
-<details>
-  <summary> My programming journey 👇</summary>
-
-  WIP...
-
-</details>
-
 --- 
 
 <details>
@@ -79,6 +70,13 @@ I am a passionate programmer who loves to deeply understand things.
 ### [A blog aggregator to learn relational databases](https://github.com/maxbrt/gator)
 <a href="https://github.com/maxbrt/gator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxbrt&repo=gator&theme=dark" alt="Gator Repository" />
+</a>
+
+<br>
+
+### [An HTTP server from scratch](https://github.com/maxbrt/httpfromtcp)
+<a href="https://github.com/maxbrt/httpfromtcp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxbrt&repo=httpfromtcp&theme=dark" alt="HTTP From TCP Repository" />
 </a>
 
 </details>
