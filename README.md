@@ -1,5 +1,5 @@
-# 👋 Maxime Bourret
-📍 Montreal, Canada
+#  Maxime Bourret
+Montreal, Canada
 
 ## Software Craftsman
 
@@ -49,7 +49,7 @@ I am a passionate programmer who loves to deeply understand things.
 --- 
 
 <details>
-<summary>Learning projects 🧙‍♂️</summary>
+<summary>Learning projects</summary>
 
 <br>
 
