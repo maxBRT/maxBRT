@@ -15,7 +15,7 @@ I am a passionate programmer who loves to deeply understand things.
 
 
 ##  Favorite Tech
-<sup style="color:#80808050;">Tech I love, tech I know, and tech I am interested in.</sup>
+Tech I love, tech I know, and tech I am interested in.
 
 <table align="center">
   <tr>
