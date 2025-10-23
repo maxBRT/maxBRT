@@ -3,13 +3,15 @@ Montreal, Canada
 
 ## Software Craftsman
 
+
+[![Quote](https://img.shields.io/badge/My-Modo-green)](https://www.youtube.com/watch?v=9TxtTF_dUHQ&t=1m01s)
 ![Profile views](https://komarev.com/ghpvc/?username=maxBRT)
 [![Contact me](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/maxime-bourret-48a48b38a/)
 
 ### I do Software / Backend things
-
-I am a passionate programmer who loves to deeply understand things.
 > I believe a good developer doesn’t just write code — they seek to understand problems at their core.
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=maxbrt&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>
 
