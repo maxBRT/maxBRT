@@ -14,30 +14,18 @@ Montreal, Canada
 <br>
 
 ### [A Python interpreter](https://github.com/maxbrt/pithon)
-<a href="https://github.com/maxbrt/pithon">
-  Pithon
-</a>
 
 <br>
 
 ### [A CLI to learn HTTP client](https://github.com/maxbrt/pokedex)
-<a href="https://github.com/maxbrt/pokedex">
-  Pokedex
-</a>
 
 <br>
 
 ### [A blog aggregator to learn relational databases](https://github.com/maxbrt/gator)
-<a href="https://github.com/maxbrt/gator">
-  Gator
-</a>
 
 <br>
 
 ### [An HTTP server from scratch](https://github.com/maxbrt/httpfromtcp)
-<a href="https://github.com/maxbrt/httpfromtcp">
-  HTTP from TCP
-</a>
 
 </details>
 
