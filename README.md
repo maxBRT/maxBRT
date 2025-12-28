@@ -8,8 +8,6 @@ Montreal, Canada
 ### I do software things
 > I believe a good developer doesn’t just write code — they seek to understand problems at their core.
 
---- 
-
 <details>
 <summary>Learning projects</summary>
 
