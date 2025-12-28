@@ -15,28 +15,28 @@ Montreal, Canada
 
 ### [A Python interpreter](https://github.com/maxbrt/pithon)
 <a href="https://github.com/maxbrt/pithon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxbrt&repo=pithon&theme=dark" alt="Pithon Repository" />
+  Pithon
 </a>
 
 <br>
 
 ### [A CLI to learn HTTP client](https://github.com/maxbrt/pokedex)
 <a href="https://github.com/maxbrt/pokedex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxbrt&repo=pokedex&theme=dark" alt="Pokedex Repository" />
+  Pokedex
 </a>
 
 <br>
 
 ### [A blog aggregator to learn relational databases](https://github.com/maxbrt/gator)
 <a href="https://github.com/maxbrt/gator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxbrt&repo=gator&theme=dark" alt="Gator Repository" />
+  Gator
 </a>
 
 <br>
 
 ### [An HTTP server from scratch](https://github.com/maxbrt/httpfromtcp)
 <a href="https://github.com/maxbrt/httpfromtcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxbrt&repo=httpfromtcp&theme=dark" alt="HTTP From TCP Repository" />
+  HTTP from TCP
 </a>
 
 </details>
