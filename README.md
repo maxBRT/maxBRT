@@ -1,7 +1,7 @@
 #  Maxime Bourret
 Montreal, Canada
 
-[![Quote](https://img.shields.io/badge/My-Modo-green)](https://www.youtube.com/watch?v=9TxtTF_dUHQ&t=1m01s)
+[![Quote](https://img.shields.io/badge/My-Motto-green)](https://www.youtube.com/watch?v=9TxtTF_dUHQ&t=1m01s)
 ![Profile views](https://komarev.com/ghpvc/?username=maxBRT)
 [![Contact me](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/maxime-bourret-48a48b38a/)
 
