@@ -6,7 +6,7 @@ Montreal, Canada
 [![Contact me](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/maxime-bourret-48a48b38a/)
 
 ### I do software things
-> I believe a good developer doesn’t just write code — they seek to understand problems at their core.
+> I believe a good developer doesn’t just write code, they seek to understand problems at their core.
 
 <details>
 <summary>Learning projects</summary>
