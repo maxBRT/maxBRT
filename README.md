@@ -6,29 +6,6 @@ Montreal, Canada
 [![Contact me](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/maxime-bourret-48a48b38a/)
 
 ### I do software things
-> I believe a good developer doesn’t just write code, they seek to understand problems at their core.
-
-<details>
-<summary>Learning projects</summary>
-
-<br>
-
-### [A Python interpreter](https://github.com/maxbrt/pithon)
-
-<br>
-
-### [A CLI to learn HTTP client](https://github.com/maxbrt/pokedex)
-
-<br>
-
-### [A blog aggregator to learn relational databases](https://github.com/maxbrt/gator)
-
-<br>
-
-### [An HTTP server from scratch](https://github.com/maxbrt/httpfromtcp)
-
-</details>
-
 
 <!---
 maxBRT/maxBRT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
